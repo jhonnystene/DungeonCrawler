@@ -1,0 +1,16 @@
+color_black		db 00h
+color_blue		db 01h
+color_green		db 02h
+color_cyan		db 03h
+color_red		db 04h
+color_magenta	db 05h
+color_brown		db 06h
+color_lgray		db 07h
+color_dgray		db 08h
+color_lblue		db 09h
+color_lgreen	db 0Ah
+color_lcyan		db 0Bh
+color_lred		db 0Ch
+color_lmagenta	db 0Dh
+color_yellow	db 0Eh
+color_white		db 0Fh
